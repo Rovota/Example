@@ -2,10 +2,10 @@
 /* ---------------------- */
 
 :root {
-    --radius-small: 0;
-    --radius-medium: 0;
-    --radius-standard: 0;
-    --radius-large: 0;
-    --radius-infinite: 0;
-    --radius-toggle: 0;
+    --radius-small: 0; /* 4px */
+    --radius-medium: 0; /* 6px */
+    --radius-standard: 0; /* 10px */
+    --radius-large: 0; /* 15px */
+    --radius-infinite: 0; /* 100% */
+    --radius-toggle: 0; /* 20px */
 }
