@@ -1,0 +1,32 @@
+{
+	"config": {
+		"use-include-path": true
+	},
+	"type": "project",
+	"license": "proprietary",
+	"keywords": [
+		"example",
+		"project"
+	],
+	"repositories": [
+		{
+			"type": "path",
+			"url": "../../Rovota/Framework"
+		},
+		{
+			"type": "path",
+			"url": "../../Rovota/Embla"
+		}
+	],
+	"require": {
+		"ext-pdo": "*",
+		"rovota/framework": "*",
+		"rovota/embla": "*"
+	},
+	"autoload": {
+		"psr-4": {
+			"App\\": "app/",
+			"Library\\": "libraries/"
+		}
+	}
+}

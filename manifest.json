@@ -1,0 +1,12 @@
+{
+   "short_name": "Project",
+   "name": "Example Project",
+
+   "start_url": "/",
+   "background_color": "#FFFFFF",
+   "display": "standalone",
+   "orientation": "portrait",
+   "scope": "/",
+   "theme_color": "#EEEEEE",
+   "description": "This is an example project built using Rovota Framework and Rovota Embla."
+}
