@@ -47,7 +47,7 @@ return [
 
 	'appearance' => [
 		'theme' => 'automatic',
-		'accent' => 'azure',
+		'accent' => 'raspberry',
 	],
 
 	// -----------------
